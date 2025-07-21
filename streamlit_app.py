@@ -3,7 +3,7 @@ import streamlit as st
 from snowflake.snowpark.functions import col
 
 # Write directly to the app
-st.title("My PArents New Healthy Diner")
+st.title("My Parents New Healthy Diner")
 st.subheader("Breakfast Menu")
 st.write(
   """Omega 3 & Blueberry Oatmeal \n
